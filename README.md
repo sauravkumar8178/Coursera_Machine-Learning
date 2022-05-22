@@ -1,7 +1,7 @@
 # Coursera_Machine-Learning
 Coursera's  Machine-Learning  By Andrew Ng.
 
-### 1. Linear Regression
+## 1. Linear Regression
 
 ![ex1_1](https://user-images.githubusercontent.com/66455423/169713680-ae518668-48da-4ead-9b56-1afbeb0ea307.png)
 
@@ -9,13 +9,13 @@ Coursera's  Machine-Learning  By Andrew Ng.
 
 ![ex1_3](https://user-images.githubusercontent.com/66455423/169713699-7b220c12-5f77-4492-9070-ec66d2c11e51.png)
 
-### 2. Logistic Regression
+## 2. Logistic Regression
 
 ![ex2_1](https://user-images.githubusercontent.com/66455423/169713861-fee67275-4108-43d2-aad7-1b39e8a44d0e.png)
 
 ![ex2_2](https://user-images.githubusercontent.com/66455423/169713867-415a0609-8176-41fe-89bd-c874f8a56cce.png)
 
-### 3. Multi-class Classification and Neural Network
+## 3. Multi-class Classification and Neural Network
 
 ![ex3_1](https://user-images.githubusercontent.com/66455423/169714158-26a2dbe8-2081-4335-9521-11c6ff01e233.png)
 
@@ -25,11 +25,11 @@ Coursera's  Machine-Learning  By Andrew Ng.
 
 ![ex3_4](https://user-images.githubusercontent.com/66455423/169714176-2603c5b8-488b-4bd4-b37d-6558d9a3f9c9.png)
 
-### 4. Neural Network Learning
+## 4. Neural Network Learning
 
 ![ex4](https://user-images.githubusercontent.com/66455423/169714590-dd643f95-7711-4e37-9cf2-d2a9080039c3.png)
 
-### 5. Regularized Linear Regression and Bias v.s. Variance
+## 5. Regularized Linear Regression and Bias v.s. Variance
 
 ![ex5_1](https://user-images.githubusercontent.com/66455423/169714780-154333bc-e78f-4e3f-a98f-a968de8247ef.png)
 
